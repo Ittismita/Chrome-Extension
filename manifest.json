@@ -1,0 +1,11 @@
+// to describe the extension's capabilities and configuration
+
+{
+  "name":"Hello Ittismita",
+  "description":"Base Level extension",
+  "version":"1.0",
+  "manifest_version":3,
+  "action":{
+    "default_popup":"hello.html",
+    "default_icon":"IM-logo.png"}
+}
